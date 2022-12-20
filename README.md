@@ -1,4 +1,4 @@
-- 🖖🏼 Greetings Earthlings, I’m @albertlarson
+- 
 
 <!---
 albertlarson/albertlarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
