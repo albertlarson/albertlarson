@@ -4,7 +4,7 @@
 - fwiw, i built it with uwgsi, nginx, certbot, and flask and was pushing traffic through my public ip to a port, like you do...
 - if i was going to do it again, i'd probably build with django. nice admin interface, db hooks, ...<br><br>
 - if i'm writing code i mostly spend my time on backend scientific computing, but i also like frontend design.
-- generally speaking, i write use python language predominantly with jupyter notebooks. 
+- generally speaking, i write using python language predominantly in a virtual jupyter environment, managed with pip (and if i have to, miniconda). 
 - my focus is creating imagery and that flow works for prototyping.<br><br>
 - if i was going to compile, i'd probably use julia, go, fortran, c, c++, rust, or lua.
 - i started 'programming' building web pages. <a href = 'http://www.funkychickens.com/main.asp'>funky chickens</a> anyone?
