@@ -1,6 +1,5 @@
 - hey it's me 👋🏻. i'm out here tryin' t' stay frosty in the heat o' the metaverse.
 - click <a href ='https://albertlarson.github.io'>here</a> for my 'proper' splash page.<br><br>
-
 - if i'm writing code i mostly spend my time on backend scientific computing, but i also like frontend design.
 - generally speaking, i write using python in a virtual jupyter environment, managed with pip (and if i have to, miniconda). 
 - my focus is creating imagery and that flow works for prototyping.<br><br>
