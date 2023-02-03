@@ -1,4 +1,4 @@
-- hey it's me. i am out here trying to stay frosty in the heat of the metaverse.
+- hey it's me 👋🏻. i'm out here tryin' t' stay frosty in the heat o' the metaverse.
 - click <a href ='https://albertlarson.github.io'>here</a> for my 'proper' splash page.<br><br>
 - i had my own secure site propped up, but it didn't generate that much interest. 
 - fwiw, i built it with uwgsi, nginx, certbot, and flask and was pushing traffic through my public ip to a port, like you do...
